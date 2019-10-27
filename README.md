@@ -1,2 +1,2 @@
 # cs5228-assignment
-Implemented a Decision Tree Regressor, a Gradient Boosting Regressor, and a Hierarchical Clustering Algorithm.
+Implemented Decision Tree Regressor, Gradient Boosting Regressor, and Agglomerative Hierarchical Clustering Algorithms.
